@@ -53,7 +53,8 @@ body {
 
 .stopWatch {
     display: flex;
-    background-image: url("assets/pBg3.jpg");
+    /* background-image: url("assets/pBg3.jpg"); */
+    background-color: transparent;
     font-size: 18vw;
     box-shadow: 5px 5px 10px #2b1717;
     border-radius: 30px;
